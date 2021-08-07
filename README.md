@@ -13,13 +13,13 @@
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=brightgreen&labelColor=000000">
 
- <img src="https://img.shields.io/static/v1?label=Ignite&message=06&color=brightgreen&labelColor=000000" />
+ <img src="https://img.shields.io/static/v1?label=Ignite&message=Reactjs&color=brightgreen&labelColor=000000" />
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="dtmoney" src=".github/home.jpeg" width="100%">
+  <img alt="dtmoney" src=".github/home.jpg" width="100%">
 </p>
 
 ## ✨ Tecnologias
